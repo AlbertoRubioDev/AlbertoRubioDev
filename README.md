@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @AlbertoRubioDev
 - 👀 I’m interested in React, anime & kpop lol.
+- 🐦 twitter: @mbtho_ 
 
 <!---
 AlbertoRubioDev/AlbertoRubioDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
